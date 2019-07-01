@@ -1,0 +1,6 @@
+framework module ZZNSStringKit {
+  umbrella header "ZZNSStringKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

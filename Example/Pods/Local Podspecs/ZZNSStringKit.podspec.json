@@ -1,0 +1,22 @@
+{
+  "name": "ZZNSStringKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZNSStringKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dkdsj/ZZNSStringKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dkdsj": "675204141@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dkdsj/ZZNSStringKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZNSStringKit/Classes/**/*"
+}

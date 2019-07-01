@@ -1,0 +1,6 @@
+framework module Pods_ZZNSStringKit_Tests {
+  umbrella header "Pods-ZZNSStringKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -11,6 +11,7 @@
 #endif
 
 #import "NSString+Addition.h"
+#import "NSString+Addition1.h"
 
 FOUNDATION_EXPORT double ZZNSStringKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZZNSStringKitVersionString[];

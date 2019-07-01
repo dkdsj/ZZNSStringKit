@@ -1,5 +1,5 @@
 PODS:
-  - ZZNSStringKit (0.1.0)
+  - ZZNSStringKit (0.1.1)
 
 DEPENDENCIES:
   - ZZNSStringKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZZNSStringKit: 2fd0657573c7a8571de8c49f96086a1319f2982a
+  ZZNSStringKit: c95866974bd981cc7c00a26a07fcc606d8a2f6a9
 
 PODFILE CHECKSUM: 5bdbe344f11f3acf92faa6650f1faa44f2911ca7
 

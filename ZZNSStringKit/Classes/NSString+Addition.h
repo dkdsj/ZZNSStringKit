@@ -23,6 +23,9 @@
  获取当前时间戳 （以毫秒为单位）
  */
 + (NSString *)getNowTimeTimestamp;
++ (NSString *)getNowTimeTimestamp123;
++ (NSString *)getNowTimeTimestamp456;
++ (NSString *)getNowTimeTimestamp156;
 
 
 /**
